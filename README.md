@@ -1,11 +1,11 @@
 # Forecast - Dashboard - Power BI#
 ---
-##English Version
-###Overview
+## English Version
+### Overview
 
 This project consists of an Inventory Management Dashboard developed in Power BI to analyze item movement, demand patterns, and stock health. The report integrates multiple analytical views to monitor consumption, identify trends, and evaluate inventory efficiency.
 
-###Objective
+### Objective
 
 The main objectives of this project are:
 
@@ -17,7 +17,7 @@ Support replenishment and purchasing decisions
 Report Structure
 Stock Analysis
 
-###This section presents:
+### his section presents:
 
 Detailed product list
 Average monthly consumption
@@ -26,14 +26,14 @@ Purchase suggestions
 Stock health classification (Healthy, Overstock, Stockout)
 Demand & Consumption
 
-###This section includes:
+### This section includes:
 
 Time-based movement analysis
 Identification of peaks and seasonality
 Sales volume by period
 Geographic Analysis
 
-###This section presents:
+### This section presents:
 
 Demand distribution by region
 Identification of high-demand locations
@@ -78,13 +78,13 @@ Author
 Yasmin de Oliveira
 LinkedIn: https://www.linkedin.com/in/yasmin-oliveira-89bb74136
 _____________________________________________________________________________________________
-#Versão em Português
+# Versão em Português
 
-##Overview
+## Overview
 
 Este projeto consiste em um Dashboard de Gestão de Estoque desenvolvido no Power BI para analisar a movimentação de itens, demanda e saúde do estoque. O relatório integra diferentes visões analíticas que permitem acompanhar o consumo, identificar padrões de demanda e avaliar a eficiência do estoque.
 
-###Objective
+### Objective
 
 Os principais objetivos deste projeto são:
 
@@ -96,7 +96,7 @@ Apoiar decisões de reposição e planejamento de compras
 Report Structure
 Stock Analysis
 
-###Esta seção apresenta:
+### Esta seção apresenta:
 
 Lista detalhada de produtos
 Consumo médio mensal
@@ -105,14 +105,14 @@ Sugestão de compra
 Classificação da saúde do estoque (Healthy, Overstock, Stockout)
 Demand & Consumption
 
-###Esta seção inclui:
+### Esta seção inclui:
 
 Análise da movimentação ao longo do tempo
 Identificação de picos e sazonalidade
 Volume de vendas por período
 Geographic Analysis
 
-###Esta seção apresenta:
+### Esta seção apresenta:
 
 Distribuição da demanda por região
 Identificação dos locais com maior consumo
@@ -120,7 +120,7 @@ Apoio a decisões logísticas e comerciais
 Visual Examples
 Stock Analysis
 
-###Exemplo do principal visual desta seção:
+### Exemplo do principal visual desta seção:
 Stock Analysis
 
 Demand & Consumption
